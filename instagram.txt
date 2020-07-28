@@ -1,3 +1,5 @@
+# Use this list to totally block access to Instagram on your network.
+
 0.0.0.0 scontent-amt2-1.cdninstagram.com
 0.0.0.0 i.instagram.com
 0.0.0.0 api.instagram.com
